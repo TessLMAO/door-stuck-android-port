@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "DoorFreeman_Idle"
+		},
+		{
+			"offsets": [
+				-40,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DoorFreeman_Left"
+		},
+		{
+			"offsets": [
+				-300,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DoorFreeman_Down"
+		},
+		{
+			"offsets": [
+				-70,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "DoorFreeman_Up"
+		},
+		{
+			"offsets": [
+				-350,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DoorFreeman_Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DoorFreeman_Assets",
+	"position": [
+		-100,
+		520
+	],
+	"healthicon": "dsgmod",
+	"flip_x": false,
+	"healthbar_colors": [
+		42,
+		42,
+		42
+	],
+	"camera_position": [
+		160,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
